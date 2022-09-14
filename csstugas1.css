@@ -1,0 +1,31 @@
+body{
+    background-color: burlywood;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 100px;   
+}
+header{
+    background-color: white;
+    text-align: center;
+    padding: 3vw 100px 0 0;
+    width: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;  
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 0 100px 0 0;
+    width: 70%;
+    height: fit-content;
+    text-align: center;
+    align-items: stretch;
+    /* margin-top: 10px; */
+}
+footer{
+    padding: 1px 100px 0 0; 
+    width: 70%;
+    background-color: white;
+    margin-top: 10px;
+    
+}
